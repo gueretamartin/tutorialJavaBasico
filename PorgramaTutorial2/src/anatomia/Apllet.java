@@ -1,5 +1,5 @@
-package anatomia;
-import java. awt. *;
+﻿package anatomia;
+import java.awt.*;
 
 /* Un applet es un componente de una aplicación que se ejecuta en el contexto de otro programa, 
 por ejemplo en un navegador web. El applet debe ejecutarse en un contenedor,    
