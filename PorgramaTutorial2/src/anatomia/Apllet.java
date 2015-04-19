@@ -1,4 +1,4 @@
-﻿package anatomia;
+package anatomia;
 import java.awt.*;
 
 /* Un applet es un componente de una aplicación que se ejecuta en el contexto de otro programa, 
